@@ -47,26 +47,8 @@ const saurabh = {
 
 ---
 
-# 🚀 Professional Summary
 
-I'm a passionate **Full Stack Software Engineer** with **1200+ hours** of structured software engineering learning through **FreeCodeCamp**.
 
-I have built **100+ web applications**, including full-stack MERN projects, REST APIs, backend microservices and real-time communication systems.
-
-I'm also an active **Open Source Contributor**, contributing through pull requests, bug fixes and issue resolutions across community projects.
-
----
-
-# 🏆 Highlights
-
-- 💻 1200+ Hours of Software Engineering Learning
-- 🚀 Built 100+ Projects
-- 🔥 900+ GitHub Contributions
-- 🌍 Open Source Contributor
-- 🏅 10+ FreeCodeCamp Certifications
-- ⚡ Strong Foundation in MERN Stack
-
----
 
 # 🛠 Tech Stack
 
@@ -100,45 +82,7 @@ I'm also an active **Open Source Contributor**, contributing through pull reques
 
 ---
 
-# 🚀 Featured Projects
 
-## 🎥 P2P Video Chat
-
-- WebRTC
-- Node.js
-- JavaScript
-- Real-time Communication
-
----
-
-## 📌 Pinterest Clone
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- Authentication
-- CRUD APIs
-
----
-
-## ⚡ Backend APIs
-
-- URL Shortener
-- Timestamp API
-- Header Parser
-- Issue Tracker
-
----
-
-# 🌱 Currently Learning
-
-- System Design
-- Cloud Computing
-- Scalable Backend Architecture
-- DevOps Fundamentals
-
----
 
 # 🤝 Open Source
 
