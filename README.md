@@ -6,7 +6,7 @@ I build scalable backend systems, AI-powered applications, and modern web experi
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 * 💻 Full Stack Software Engineer specializing in the MERN Stack
 * 🤖 Building AI-powered applications with OpenAI, Gemini & LangChain
